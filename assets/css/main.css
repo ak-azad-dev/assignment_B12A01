@@ -259,7 +259,7 @@ main {
 .contact input[type="email"],
 .contact textarea {
   font-family: "Inter", sans-serif;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #ffffff;
   display: block;
   width: 88%;
