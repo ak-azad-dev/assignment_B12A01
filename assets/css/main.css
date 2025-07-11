@@ -251,7 +251,7 @@ main {
   color: #000000;
   font-weight: 500;
 }
-.contact-form input {
+.contact-form input, .contact textarea {
   margin-top: 10px;
   font-weight: 500;
 }
@@ -259,7 +259,6 @@ main {
 .contact input[type="email"],
 .contact textarea {
   font-family: "Inter", sans-serif;
-  height: 25px;
   border-radius: 5px;
   background-color: #ffffff;
   display: block;
